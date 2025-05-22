@@ -13,11 +13,11 @@
 4. Configured environment variables in Vercel Dashboard
 
 ### 📸 Screenshots
-- ![Local Setup](screenshots/local-setup.png)
-- ![GitHub Repo](screenshots/github-repo.png)
-- ![Vercel Deployment](screenshots/vercel-deployment.png)
-- ![Domain Settings](screenshots/domain.png)
-- ![Environment Variables](screenshots/env-vars.png)
+- Local Setup ![Local Setup](screenshots/local-setup.png)
+- Github Repo ![GitHub Repo](screenshots/github-repo.png)
+- Vercel Deployment ![Vercel Deployment](screenshots/vercel-deployment.png)
+- Domain Settings ![Domain Settings](screenshots/domain.png)
+- Environment Variables ![Environment Variables](screenshots/env-vars.png)
 
 ## 🌐 Live App
 
